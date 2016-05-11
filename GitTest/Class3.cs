@@ -9,6 +9,5 @@ namespace GitTest
     class Class3
     {
         test;
-        issue2;
     }
 }
