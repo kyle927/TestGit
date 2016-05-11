@@ -8,6 +8,5 @@ namespace GitTest
 {
     class Class3
     {
-        test;
     }
 }
