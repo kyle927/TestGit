@@ -9,5 +9,6 @@ namespace GitTest
     class Class2
     {
         Test;
+        123;
     }
 }
